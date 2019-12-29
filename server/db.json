@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "title": "Game of Thrones",
+      "rating": "4.9",
+      "id": 1
+    },
+    {
+      "title": "Harry Potter",
+      "rating": "4.5",
+      "id": 2
+    },
+    {
+      "title": "My Fedual Lord",
+      "rating": "4.1",
+      "id": 3
+    },
+    {
+      "title": "The Intelligent Investor",
+      "rating": "4.2",
+      "id": 4
+    },
+    {
+      "title": "Another one bites the dust",
+      "rating": "3.4",
+      "id": 5
+    },
+    {
+      "title": "fdsf",
+      "rating": "2",
+      "id": 6
+    }
+  ]
+}
